@@ -28,6 +28,5 @@ I'm Michael Khuri, a computer science student studying at CSUF '24. I've always 
 <a>![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![kali linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![centos](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)</a>
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=savant-sys&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=savant-sys&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<img src="https://github-readme-stats.vercel.app/api?username=savant-sys&theme=tokyonight&show_icons=true&count_private=true"> &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savant-sys&theme=tokyonight&layout=compact&langs_count=6">
