@@ -4,11 +4,13 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12122686865&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12122686865&redirect=true)
 
 ## About me 
+<a href=https://www.linkedin.com/in/michael-khuri-761129204> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+
 I'm Michael Khuri, a computer science student studying at CSUF '24. I've always been fascinated by the ways computer science can improve society and the human experience. I'm excited to take on the challenges that come with earning a degree in this field. My goal is to become Software Engineer/Artificial Intelligence Engineer. I love to learn new things in programming. I'm currently looking for an intern or junior Software Engineer to gain experience.
 
 ### 📫 How to reach me:
 - Email: michaelkhuri@gmail.com
-- Get in touch with me on Linkedin: <a href=https://www.linkedin.com/in/michael-khuri-761129204> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+- Get in touch with me on Linkedin above. 
 
 ### ⚡ Fun fact:
 - Gaming
