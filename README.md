@@ -6,7 +6,7 @@
 ## About me 
 <a href=https://www.linkedin.com/in/michael-khuri-761129204> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 
-I'm Michael Khuri, a computer science student studying at CSUF '24. I've always been fascinated by the ways computer science can improve society and the human experience. I'm excited to take on the challenges that come with earning a degree in this field. My goal is to become Software Engineer/Artificial Intelligence Engineer. I love to learn new things in programming. I'm currently looking for an intern or junior Software Engineer to gain experience.
+I'm Michael Khuri, a computer science student studying at CSUF '24. I've always been fascinated by the ways computer science can improve society and the human experience. I'm excited to take on the challenges that come with earning a degree in this field. I love to learn new things in programming. I'm currently looking for opportunities to work.
 
 ### 📫 How to reach me:
 - Email: michaelkhuri@gmail.com
