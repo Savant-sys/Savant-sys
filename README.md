@@ -1,8 +1,5 @@
 # <a>Hi there! <img src="https://i.ibb.co/D4H7Hz8/teddy.png" width="54px" height="59px" alt="teddy"> I'm Michael Khuri <img src="https://www.freepnglogos.com/uploads/mr-bean-png/mr-bean-image-img-bean-wiki-fandom-powered-wikia-14.png" width="54px" height="97px" alt="mrbean">
 
-### My current spotify playing: 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12122686865&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12122686865&redirect=true)
-
 ## About me 
 <a href=https://www.linkedin.com/in/michael-khuri-761129204> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 
