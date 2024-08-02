@@ -9,7 +9,7 @@ I'm Michael Khuri, a computer science student studying at CSUF '24. I've always 
 - Get in touch with me on Linkedin above. 
 
 ### 📜 Resume:
-- As of 1 August 2024, <a href="https://github.com/Savant-sys/resume/blob/main/Resume-Michael-Khuri.pdf">resumé</a>
+- As of 1 August 2024, <a href="https://github.com/Savant-sys/resume/blob/main/Michael_Khuri_Resume.pdf">resumé</a>
 
 ### ⚡ Fun fact:
 - Gaming
