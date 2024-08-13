@@ -9,7 +9,7 @@ I'm Michael Khuri, a recent Computer Science graduate with a strong foundation i
 - Get in touch with me on Linkedin above. 
 
 ### 📜 Resume:
-- As of 7 August 2024, <a href="https://github.com/Savant-sys/resume/blob/main/Michael_Khuri_Resume.pdf">resumé</a>
+- As of 13 August 2024, <a href="https://github.com/Savant-sys/resume/blob/main/Michael_Khuri_Resume.pdf">resumé</a>
 
 ### ⚡ Fun fact:
 - 3D Modeling
