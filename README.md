@@ -2,7 +2,7 @@
 
 <a href=https://www.linkedin.com/in/michael-khuri-761129204> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 
-I'm Michael Khuri, a computer science student studying at CSUF '24. I've always been fascinated by the ways computer science can improve society and the human experience. I'm excited to take on the challenges that come with earning a degree in this field. I love to learn new things in programming. I'm currently looking for opportunities to gain experience.
+I'm Michael Khuri, a recent Computer Science graduate with a strong foundation in software development, Unity game development, and cybersecurity. I’m passionate about using computer science to improve society and excited to apply my skills to real-world projects. I'm actively seeking opportunities to continue learning and contributing to innovative solutions.
 
 ### 📫 How to reach me:
 - Email: michaelkhuri@gmail.com
