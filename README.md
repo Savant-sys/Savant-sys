@@ -2,7 +2,7 @@
 
 <a href=https://www.linkedin.com/in/michael-khuri-761129204> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 
-I'm Michael Khuri, a recent Computer Science graduate with a strong foundation in software development, Unity game development, and cybersecurity. I’m passionate about using computer science to improve society and excited to apply my skills to real-world projects. I'm actively seeking opportunities to continue learning and contributing to innovative solutions.
+I'm Michael Khuri, a recent Computer Science graduate with a strong foundation in software development, Unity game development, cybersecurity, and customer service. I am eager to gain hands-on experience in AI/ML, software development engineering, software engineering, or related fields. I’m passionate about applying my skills to innovative projects that make a real-world impact across different industries and roles.
 
 ### 📫 How to reach me:
 - Email: michaelkhuri@gmail.com
