@@ -1,6 +1,6 @@
 # <a>Hi there! <img src="https://i.ibb.co/D4H7Hz8/teddy.png" width="54px" height="59px" alt="teddy"> I'm Michael Khuri <img src="https://www.freepnglogos.com/uploads/mr-bean-png/mr-bean-image-img-bean-wiki-fandom-powered-wikia-14.png" width="54px" height="97px" alt="mrbean">
 
-<a href=https://michaelkhuri.com/> ![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) </a> <a href=https://www.linkedin.com/in/michael-khuri-761129204> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href=https://michaelkhuri.com/> ![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) </a> <a href=https://www.linkedin.com/in/michael-khuri-761129204> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
 I'm Michael Khuri, a recent Computer Science graduate with a strong foundation in software development, Unity game development, cybersecurity, and customer service. I am eager to gain hands-on experience in AI/ML, software development engineering, software engineering, or related fields. I’m passionate about applying my skills to innovative projects that make a real-world impact across different industries and roles.
 
