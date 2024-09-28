@@ -2,7 +2,7 @@
 
 <a href=https://michaelkhuri.com/> ![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) </a> <a href=https://www.linkedin.com/in/michael-khuri-761129204> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12122686865&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=12122686865&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12122686865&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=12122686865&redirect=true)
 
 I'm Michael Khuri, a recent Computer Science graduate with a strong foundation in software development, Unity game development, cybersecurity, and customer service. I am eager to gain hands-on experience in AI/ML, software development engineering, software engineering, or related fields. I’m passionate about applying my skills to innovative projects that make a real-world impact across different industries and roles.
 
