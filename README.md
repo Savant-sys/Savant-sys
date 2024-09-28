@@ -8,10 +8,11 @@ I'm Michael Khuri, a recent Computer Science graduate with a strong foundation i
 
 ### 📫 How to reach me:
 - Email: michaelkhuri@gmail.com
-- Get in touch with me on Linkedin above. 
+- Get in touch with me on Linkedin above.
 
 ### 📜 Resume:
 - As of 19 September 2024, <a href="https://github.com/Savant-sys/resume/blob/main/Michael_Khuri_Resume.pdf">résumé</a>
+- My portfolio website: https://michaelkhuri.com/
 
 ### ⚡ Fun fact:
 - Programming & Gaming
