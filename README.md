@@ -6,7 +6,9 @@
 ## 💻 About me:
 <a href=https://michaelkhuri.com/> ![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) </a> <a href=https://www.linkedin.com/in/michael-khuri> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
-I'm Michael Khuri, a recent Computer Science graduate with a strong foundation in software development, Unity game development, cybersecurity, and customer service. I am eager to gain hands-on experience in AI/ML, software development engineering, software engineering, or related fields. I’m passionate about applying my skills to innovative projects that make a real-world impact across different industries and roles.
+I'm Michael Khuri, a recent Computer Science graduate with a strong foundation in software development, Unity game development, cybersecurity, and customer service. I'm eager to gain hands-on experience in AI/ML, software engineering, or technical development roles.
+
+I'm passionate about applying my skills to innovative, real-world projects that drive impact across industries. Whether it's building full-stack web apps, creating VR experiences in Unity, or supporting cybersecurity operations, I’m always looking to grow, contribute, and solve meaningful problems.
 
 ### 📫 How to reach me:
 - Email: michaelkhuri@gmail.com
