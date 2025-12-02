@@ -1,6 +1,6 @@
 # Hi there! I'm Michael Khuri :)
 
-### AI & Autonomous Systems Engineer in Progress | M.S. Artificial Intelligence @ SJSU
+#### AI & Autonomous Systems Engineer in Progress | M.S. Artificial Intelligence @ SJSU
 
 ## 🚀 About Me
 <a href=https://michaelkhuri.com> ![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) </a> <a href=https://www.linkedin.com/in/michael-khuri> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
@@ -29,9 +29,9 @@ Always building. Always learning. Autonomy is the future.
 | **Autonomous Lane Detection System** | Python, NumPy, OpenCV | Real-time lane detector with Canny edges, ROI masking, curve fitting, and shadow/dash handling. Designed for early self-driving pipelines. |
 | **Star4ce (Professional Work)** | Next.js, TailwindCSS, Flask, PostgreSQL | Full SaaS platform with auth, analytics, dashboards, worker insights, and subscription payments. |
 | **SmartTuffy** | TypeScript, Next.js, TailwindCSS, OpenAI API | AI assistant to recommend courses based on chat understanding; built in under 24 hours during a hackathon. |
-| **SiblingAI** | TypeScript, OpenAI API, Next.js | AI chatbot that adapts responses to user tone and conversation context. |
-| **Detection VR** | Unity, C# | Immersive VR FPS with environmental scanning and physics-based interactions. |
+| **SiblingAI** | JS, Next.js | Heuristic chatbot using similarity matching to adapt tone and choose responses. |
 | **Acuflow Quote Generator (Professional Work)** | Python Flask, MySQL, JS | Automated PDF generation, email sending, and quoting system for a manufacturing company. |
+| **Detection VR** | Unity, C# | Immersive VR FPS with environmental scanning and physics-based interactions. |
 
 
 
