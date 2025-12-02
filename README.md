@@ -1,6 +1,6 @@
 # Hi there! I'm Michael Khuri :)
 
-#### AI & Autonomous Systems Engineer in Progress | M.S. Artificial Intelligence @ SJSU
+### AI & Autonomous Systems Engineer in Progress | M.S. Artificial Intelligence @ SJSU
 
 ## 🚀 About Me
 <a href=https://michaelkhuri.com> ![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) </a> <a href=https://www.linkedin.com/in/michael-khuri> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
