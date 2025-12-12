@@ -26,12 +26,12 @@ Always building. Always learning. Autonomy is the future.
 ## 💼 Featured Projects
 | Project | Tech | Description |
 | - | - | - |
-| **Autonomous Lane Detection System** | Python, NumPy, OpenCV | Real-time lane detector with Canny edges, ROI masking, curve fitting, and shadow/dash handling. Designed for early self-driving pipelines. |
+| **[Autonomous Lane Detection System](https://github.com/Savant-sys/Autonomous-Lane-Detection-System)** | Python, NumPy, OpenCV | Real-time lane detector with Canny edges, ROI masking, curve fitting, and shadow/dash handling. Designed for early self-driving pipelines. |
 | **Star4ce (Professional Work)** | Next.js, TailwindCSS, Flask, PostgreSQL | Full SaaS platform with auth, analytics, dashboards, worker insights, and subscription payments. |
-| **SmartTuffy** | TypeScript, Next.js, TailwindCSS, OpenAI API | AI assistant to recommend courses based on chat understanding; built in under 24 hours during a hackathon. |
-| **SiblingAI** | JS, Next.js | Heuristic chatbot using similarity matching to adapt tone and choose responses. |
-| **Acuflow Quote Generator (Professional Work)** | Python Flask, MySQL, JS | Automated PDF generation, email sending, and quoting system for a manufacturing company. |
-| **Detection VR** | Unity, C# | Immersive VR FPS with environmental scanning and physics-based interactions. |
+| **[SmartTuffy](https://github.com/Savant-sys/SmartTuffy)** | TypeScript, Next.js, TailwindCSS, OpenAI API | AI assistant to recommend courses based on chat understanding; built in under 24 hours during a hackathon. |
+| **[SiblingAI](https://github.com/Savant-sys/siblingAI)** | JS, Next.js | Heuristic chatbot using similarity matching to adapt tone and choose responses. |
+| **[Acuflow Quote Generator](https://github.com/Savant-sys/Acuflow-Quote-Generator) (Professional Work)** | Python Flask, MySQL, JS | Automated PDF generation, email sending, and quoting system for a manufacturing company. |
+| **[Detection VR](https://detectiongame.com/)** | Unity, C# | Immersive VR FPS with environmental scanning and physics-based interactions. [Video Demo Gameplay](https://youtu.be/Dj0y_OX5fII)|
 
 
 
