@@ -18,7 +18,7 @@ Always building. Always learning. Autonomy is the future.
 - <a href="https://linkedin.com/in/michael-khuri">LinkedIn</a>
 
 ### 📜 Resume:
-- As of 2 December 2025, <a href="https://github.com/Savant-sys/resume/blob/main/Michael_Khuri_Resume.pdf">resumé</a>
+- As of 27 January 2026, <a href="https://github.com/Savant-sys/resume/blob/main/Michael_Khuri_Resume.pdf">resumé</a>
 - <a href="https://michaelkhuri.com">Portfolio Website</a>
 
 
