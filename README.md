@@ -26,8 +26,8 @@ Always building. Always learning. Autonomy is the future.
 ## 💼 Featured Projects
 | Project | Tech | Description |
 | - | - | - |
-| **[Autonomous Lane Detection System](https://github.com/Savant-sys/Autonomous-Lane-Detection-System)** | Python, NumPy, OpenCV | Real-time lane detector with Canny edges, ROI masking, curve fitting, and shadow/dash handling. Designed for early self-driving pipelines. [Demo Video](https://www.youtube.com/watch?v=yOJP7iISu4k)|
 | **[EcoRoad AI](https://github.com/Savant-sys/ecoRoadAI)** | Python, Flask, PyTorch, YOLO, OpenCV | Dashcam → eco score, CO₂ estimate, and driving tips. Object detection + scene analysis; no car sensors. Built at SF Hacks 2026 in San Francisco. [Demo](https://youtu.be/i7L7Th8KhuA) |
+| **[Autonomous Lane Detection System](https://github.com/Savant-sys/Autonomous-Lane-Detection-System)** | Python, NumPy, OpenCV | Real-time lane detector with Canny edges, ROI masking, curve fitting, and shadow/dash handling. Designed for early self-driving pipelines. [Demo Video](https://www.youtube.com/watch?v=yOJP7iISu4k)|
 | **Star4ce (Professional Work)** | Next.js, TailwindCSS, Flask, PostgreSQL | Full SaaS platform with auth, analytics, dashboards, worker insights, and subscription payments. |
 | **[SmartTuffy](https://github.com/Savant-sys/SmartTuffy)** | TypeScript, Next.js, TailwindCSS, OpenAI API | AI assistant to recommend courses based on chat understanding; built in under 24 hours during a hackathon. |
 | **[SiblingAI](https://github.com/Savant-sys/siblingAI)** | JS, Next.js | Heuristic chatbot using similarity matching to adapt tone and choose responses. |
