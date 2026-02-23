@@ -26,7 +26,7 @@ Always building. Always learning. Autonomy is the future.
 ## 💼 Featured Projects
 | Project | Tech | Description |
 | - | - | - |
-| **[EcoRoad AI](https://github.com/Savant-sys/ecoRoadAI)** | Python, Flask, PyTorch, YOLO, OpenCV | Dashcam → eco score, CO₂ estimate, and driving tips. Object detection + scene analysis; no car sensors. Built at SF Hacks 2026 in San Francisco. [Demo](https://youtu.be/i7L7Th8KhuA) |
+| **[EcoRoad AI](https://github.com/Savant-sys/ecoRoadAI)** | Python, Flask, PyTorch, YOLO, OpenCV | Dashcam → eco score, CO₂ estimate, and driving tips. Object detection + scene analysis; no car sensors. Built at SF Hacks 2026 in San Francisco. [Demo Video](https://youtu.be/i7L7Th8KhuA) |
 | **[Autonomous Lane Detection System](https://github.com/Savant-sys/Autonomous-Lane-Detection-System)** | Python, NumPy, OpenCV | Real-time lane detector with Canny edges, ROI masking, curve fitting, and shadow/dash handling. Designed for early self-driving pipelines. [Demo Video](https://www.youtube.com/watch?v=yOJP7iISu4k)|
 | **Star4ce (Professional Work)** | Next.js, TailwindCSS, Flask, PostgreSQL | Full SaaS platform with auth, analytics, dashboards, worker insights, and subscription payments. |
 | **[NeuronBook](https://github.com/Savant-sys/neuron-book)** | Next.js, Sanity, Flask, React PDF, TailwindCSS | Active-reading app: PDF viewer, Socratic question generation (Gemini/You.com), and Sanity-backed library. Embeddings and question flow with Foxit/react-pdf. |
