@@ -5,11 +5,13 @@
 ## 🚀 About Me
 <a href=https://michaelkhuri.com> ![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) </a> <a href=https://www.linkedin.com/in/michael-khuri> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
-I’m Michael Khuri, an **M.S. Artificial Intelligence** student at San José State University, specializing in **computer vision** and **autonomous systems**.
+I’m Michael Khuri, an M.S. Artificial Intelligence student at San José State University specializing in autonomous systems.
 
-I build systems that help machines understand and react to the world, focusing on **computer vision, machine learning, and real-time perception.** My recent work includes a lane detection system built with **Python** + **OpenCV**, plus multiple AI-assisted applications powered by the **OpenAI API** with **TypeScript** and **Next.js.**
+I build full-stack and AI-driven systems, including scalable SaaS platforms, REST APIs, and real-time computer vision pipelines using Python, Flask, Next.js, TypeScript, and PostgreSQL.
 
-I work with **Python, C++, NumPy, OpenCV,** and I’m currently learning **PyTorch** for **deep learning.** My long-term goal is to build AI systems for autonomous vehicles, robotic perception, and intelligent agents.
+My recent work includes developing multi-tenant SaaS applications, AI-powered learning platforms, and computer vision systems using PyTorch, OpenCV, and YOLO.
+
+I’m focused on building production-level systems and working toward roles in software engineering, AI/ML engineering, and autonomous systems.
 
 Always building. Always learning. Autonomy is the future.
 
