@@ -28,14 +28,14 @@ Always building. Always learning. Autonomy is the future.
 ## 💼 Featured Projects
 | Project | Tech | Description |
 | - | - | - |
-| **[EcoRoad AI](https://github.com/Savant-sys/ecoRoadAI)** | Python, Flask, PyTorch, YOLO, OpenCV | Dashcam → eco score, CO₂ estimate, and driving tips. Object detection + scene analysis; no car sensors. Built at SF Hacks 2026 in San Francisco. [Demo Video](https://youtu.be/i7L7Th8KhuA) |
-| **[Autonomous Lane Detection System](https://github.com/Savant-sys/Autonomous-Lane-Detection-System)** | Python, NumPy, OpenCV | Real-time lane detector with Canny edges, ROI masking, curve fitting, and shadow/dash handling. Designed for early self-driving pipelines. [Demo Video](https://www.youtube.com/watch?v=yOJP7iISu4k)|
-| **Star4ce (Professional Work)** | Next.js, TailwindCSS, Flask, PostgreSQL | Full SaaS platform with auth, analytics, dashboards, worker insights, and subscription payments. |
-| **[NeuronBook](https://github.com/Savant-sys/neuron-book)** | Next.js, Sanity, Flask, React PDF, TailwindCSS | Active-reading app: PDF viewer, Socratic question generation (Gemini/You.com), and Sanity-backed library. Embeddings and question flow with Foxit/react-pdf. |
-| **[SmartTuffy](https://github.com/Savant-sys/SmartTuffy)** | TypeScript, Next.js, TailwindCSS, OpenAI API | AI assistant to recommend courses based on chat understanding; built in under 24 hours during a hackathon. |
-| **[SiblingAI](https://github.com/Savant-sys/siblingAI)** | JS, Next.js | Heuristic chatbot using similarity matching to adapt tone and choose responses. |
-| **[Acuflow Quote Generator](https://github.com/Savant-sys/Acuflow-Quote-Generator) (Professional Work)** | Python Flask, MySQL, JS | Automated PDF generation, email sending, and quoting system for a manufacturing company. |
-| **[Detection VR](https://detectiongame.com/)** | Unity, C# | Immersive VR FPS with environmental scanning and physics-based interactions. [Demo Gameplay Video](https://youtu.be/Dj0y_OX5fII)|
+| **[Gap Reconstruction for Autonomous Vision](https://github.com/Savant-sys/Gap-Reconstruction-in-Autonomous-Panoramic-Vision)** | Python, OpenCV, PyTorch, LaMa, YOLO | Built a multi-camera perception pipeline using Waymo images to stitch panoramic scenes, simulate missing field-of-view gaps, reconstruct them with LaMa, and evaluate YOLO detection recovery. |
+| **[RoadAware](https://github.com/amarahatta/Object-Detection/tree/main)** | Python, PyTorch, TorchVision, YOLOv8, OpenCV | Road-scene object detection system using BDD100K dashcam images. Fine-tuned and compared YOLOv8m and Faster R-CNN with mAP, F1, per-class AP, confusion matrices, and FPS evaluation. [Demo](https://huggingface.co/spaces/AadMa/bdd-object-detection) + [Video](https://youtu.be/CNPKmXZdYqc?si=RFyM9f5jdeNH2-Cl)|
+| **[EcoRoad AI](https://github.com/Savant-sys/ecoRoadAI)** | Python, Flask, PyTorch, YOLO, OpenCV | Dashcam video analysis pipeline for eco scoring, CO₂ estimate, driving risk, and object-aware safety tips. Built at SF Hacks 2026 in San Francisco. [Demo Video](https://youtu.be/i7L7Th8KhuA) |
+| **Star4ce (Professional Work)** | Next.js, Tailwind CSS, Flask, PostgreSQL | Multi-tenant SaaS platform with authentication, analytics dashboards, worker insights, reporting, and subscription payments. |
+| **[NeuronBook](https://github.com/NeuronBookAI/Neuron-Book)** | Next.js, Sanity, Flask, React PDF, Tailwind CSS | AI-powered active-reading platform with PDF viewing, Socratic question generation, knowledge graph visualization, and Sanity-backed library data. |
+| **[SmartTuffy](https://github.com/Savant-sys/SmartTuffy)** | TypeScript, Next.js, Tailwind CSS, OpenAI API | AI assistant that helps students find course information and campus resources through chat-based recommendations. Built in under 24 hours during a hackathon. |
+| **[Acuflow Quote Generator](https://github.com/Savant-sys/Acuflow-Quote-Generator) (Professional Work)** | Python, Flask, MySQL, JavaScript | Automated quote generation system with PDF creation, email workflows, custom pricing logic, and REST API integration for a manufacturing company. |
+| **[Detection VR](https://detectiongame.com/)** | Unity, C# | Immersive VR FPS with environmental scanning, physics-based interactions, modular weapon systems, and responsive VR gameplay. [Demo Video](https://youtu.be/Dj0y_OX5fII) |
 
 
 
