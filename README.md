@@ -27,7 +27,7 @@ Always building. Always learning. Autonomy is the future.
 
 ## ⚡ Outside of coding
 
-🏋️‍♂️ Gym • 🏊 Swimming • ✈️ Travel • 🍳 Cooking • 🎧 Music • 🎮 Gaming + VR
+🏊 Swimming • 🏋️‍♂️ Gym • ✈️ Travel • 🍳 Cooking • 🎧 Music • 🎮 Gaming + VR
 
 ## 💼 Featured Projects
 | Project | Tech | Description |
