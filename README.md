@@ -5,13 +5,13 @@
 ## 🚀 About Me
 <a href=https://michaelkhuri.com> ![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) </a> <a href=https://www.linkedin.com/in/michael-khuri> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
-I’m Michael Khuri, an M.S. Artificial Intelligence student at San José State University specializing in autonomous systems.
+I'm Michael Khuri, founding full-stack engineer at Star4ce and an M.S. Artificial Intelligence student at San José State University, specializing in autonomous systems.
 
-I build full-stack and AI-driven systems, including scalable SaaS platforms, REST APIs, and real-time computer vision pipelines using Python, Flask, Next.js, TypeScript, and PostgreSQL.
+I build and deploy software, including a multi-tenant dealership retention platform using Next.js, Flask, and PostgreSQL, and a production pump-quoting tool for AcuFlow. At TRSTXCYBER, I integrated client onboarding tools to support sales qualification.
 
-My recent work includes developing multi-tenant SaaS applications, AI-powered learning platforms, and computer vision systems using PyTorch, OpenCV, and YOLO.
+My computer vision projects include training and comparing road-scene detectors on BDD100K and implementing panorama stitching and integration for a Waymo multi-camera team project. Our evaluation found that LaMa inpainting did not restore YOLO detections in masked fields of view.
 
-I’m focused on building production-level systems and working toward roles in software engineering, AI/ML engineering, and autonomous systems.
+I'm interested in full-time software engineering opportunities, with a particular focus on computer vision, perception, and autonomous systems.
 
 Always building. Always learning. Autonomy is the future.
 
@@ -20,7 +20,7 @@ Always building. Always learning. Autonomy is the future.
 - <a href="https://linkedin.com/in/michael-khuri">LinkedIn</a>
 
 ### 📜 Resume:
-- As of 5 May 2026, <a href="https://github.com/Savant-sys/resume/blob/main/Michael_Khuri_Resume.pdf">resumé</a>
+- As of 9 September 2026, <a href="https://github.com/Savant-sys/resume/blob/main/Michael_Khuri_Resume.pdf">resumé</a>
 - <a href="https://michaelkhuri.com">Portfolio Website</a>
 
 
