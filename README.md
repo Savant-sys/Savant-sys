@@ -1,11 +1,11 @@
 # Hi there! I'm Michael Khuri :)
 
-#### AI & Autonomous Systems Engineer in Progress | M.S. Artificial Intelligence @ SJSU
+#### Founding Full-Stack Engineer | Computer Vision & Autonomous Systems | M.S. AI @ SJSU
 
 ## 🚀 About Me
 <a href=https://michaelkhuri.com> ![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) </a> <a href=https://www.linkedin.com/in/michael-khuri> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
-I'm Michael Khuri, founding full-stack engineer at Star4ce and an M.S. Artificial Intelligence student at San José State University, specializing in autonomous systems.
+I'm Michael Khuri, founding full-stack engineer at Star4ce on a freelance project basis and an M.S. Artificial Intelligence student at San José State University, specializing in autonomous systems.
 
 I build and deploy software, including a multi-tenant dealership retention platform using Next.js, Flask, and PostgreSQL, and a production pump-quoting tool for AcuFlow. At TRSTXCYBER, I integrated client onboarding tools to support sales qualification.
 
@@ -17,19 +17,23 @@ Always building. Always learning. Autonomy is the future.
 
 ### 📫 Connect With Me:
 - Email: michaelkhuri@gmail.com
-- <a href="https://linkedin.com/in/michael-khuri">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/michael-khuri/">LinkedIn</a>
 
 ### 📜 Resume:
-- As of 9 September 2026, <a href="https://github.com/Savant-sys/resume/blob/main/Michael_Khuri_Resume.pdf">resumé</a>
+- <a href="https://michaelkhuri.com/Michael_Khuri_Resume.pdf">Resumé</a>
 - <a href="https://michaelkhuri.com">Portfolio Website</a>
 
 
 
+## ⚡ Outside of coding
+
+🏋️‍♂️ Gym • 🏊 Swimming • ✈️ Travel • 🍳 Cooking • 🎧 Music • 🎮 Gaming + VR
+
 ## 💼 Featured Projects
 | Project | Tech | Description |
 | - | - | - |
-| **[Gap Reconstruction for Autonomous Vision](https://github.com/Savant-sys/Gap-Reconstruction-in-Autonomous-Panoramic-Vision)** | Python, OpenCV, PyTorch, LaMa, YOLO | Built a multi-camera perception pipeline using Waymo images to stitch panoramic scenes, simulate missing field-of-view gaps, reconstruct them with LaMa, and evaluate YOLO detection recovery. |
-| **[RoadAware](https://github.com/amarahatta/Object-Detection/tree/main)** | Python, PyTorch, TorchVision, YOLOv8, OpenCV | Road-scene object detection system using BDD100K dashcam images. Fine-tuned and compared YOLOv8m and Faster R-CNN with mAP, F1, per-class AP, confusion matrices, and FPS evaluation. [Demo](https://huggingface.co/spaces/AadMa/bdd-object-detection) + [Video](https://youtu.be/CNPKmXZdYqc?si=RFyM9f5jdeNH2-Cl)|
+| **[RoadAware](https://github.com/Savant-sys/RoadAware)** | Python, PyTorch, TorchVision, YOLOv8, OpenCV | Road-scene object detection system using BDD100K dashcam images. Compared YOLOv8m and Faster R-CNN on 10,000 images across 8 traffic classes. Best YOLOv8m: 0.515 mAP@0.5, 0.734 F1, 64.9 FPS. Forked from [amarahatta/Object-Detection](https://github.com/amarahatta/Object-Detection). [Demo](https://huggingface.co/spaces/AadMa/bdd-object-detection) + [Video](https://youtu.be/CNPKmXZdYqc?si=RFyM9f5jdeNH2-Cl)|
+| **[Gap Reconstruction for Autonomous Vision](https://github.com/Savant-sys/Gap-Reconstruction-in-Autonomous-Panoramic-Vision)** | Python, OpenCV, PyTorch, LaMa, YOLO | Implemented panorama stitching and integration for a Waymo multi-camera team project. Team evaluation found that LaMa inpainting did not restore YOLO detections in masked fields of view. |
 | **[EcoRoad AI](https://github.com/Savant-sys/ecoRoadAI)** | Python, Flask, PyTorch, YOLO, OpenCV | Dashcam video analysis pipeline for eco scoring, CO₂ estimate, driving risk, and object-aware safety tips. Built at SF Hacks 2026 in San Francisco. [Demo Video](https://youtu.be/i7L7Th8KhuA) |
 | **Star4ce (Professional Work)** | Next.js, Tailwind CSS, Flask, PostgreSQL | Multi-tenant SaaS platform with authentication, analytics dashboards, worker insights, reporting, and subscription payments. |
 | **[NeuronBook](https://github.com/NeuronBookAI/Neuron-Book)** | Next.js, Sanity, Flask, React PDF, Tailwind CSS | AI-powered active-reading platform with PDF viewing, Socratic question generation, knowledge graph visualization, and Sanity-backed library data. |
